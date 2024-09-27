@@ -39,3 +39,4 @@ escreval("quantidade de impares ",qtdimpar)
 escreval("porcentagem do numero impar", pni)
 escreval("porcentagem do numero par", pnp)
 Fimalgoritmo
+c
